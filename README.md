@@ -7,6 +7,7 @@ The Boat Reservation System is an application designed to manage and streamline 
 
 Together, these modules provide a scalable solution for efficient boat rental management.
 Getting Started
+
 Prerequisites
 
     Node.js and npm: Install from the Node.js website.

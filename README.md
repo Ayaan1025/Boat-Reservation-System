@@ -6,6 +6,7 @@ The Boat Reservation System is an application designed to manage and streamline 
     Server: Processes client requests and coordinates actions across modules.
 
 Together, these modules provide a scalable solution for efficient boat rental management.
+
 Getting Started
 
 Prerequisites

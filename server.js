@@ -1,6 +1,3 @@
-// Ayaan Khan 4/18/2024 Assignment 3
-// In this assignment we connect to a dabatase in order to do some request the client asks us such as updating, deleting, adding, displaying the items in the database
-
 const http = require('http');
 const url = require('url');
 const mysql = require('mysql');
